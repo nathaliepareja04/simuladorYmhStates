@@ -1,0 +1,36 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "nombre": "Luisa",
+        "apellido": "Morales",
+        "motoId": "3",
+        "StateMoto": "amarillo",
+        "email": "luisamoralesocp@gmail.com"
+      },
+      {
+        "id": 2,
+        "nombre": "Dana",
+        "apellido": "Faranah",
+        "motoId": "2",
+        "StateMoto": "verde",
+        "email": "danacarrillo1984@gmail.com"
+      },
+      {
+        "id": 3,
+        "nombre": "Michelle",
+        "apellido": "Mejia",
+        "motoId": "3",
+        "StateMoto": "azul",
+        "email": "michellemejiaparra4@gmail.com"
+      },
+      {
+        "id": 4,
+        "nombre": "Nath",
+        "apellido": "Pareja",
+        "motoId": "4",
+        "StateMoto": "rojo",
+        "email": "natypale@gmail.com"
+      }
+    ]
+}
